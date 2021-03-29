@@ -1,0 +1,16 @@
+body 
+{
+	font: 20px/28px arial, sans-serif ;
+	background-color: #eaeaea ;
+	color: black ;
+	background-image: url(image/kucingoyen-picsay.jpg);
+	background-size: 100%;
+}
+nav
+{
+    position:fixed;left:0px; border-radius: 35px;
+    background-image: url(image/bgpicture.jpg);
+    display: inline;
+
+
+}
